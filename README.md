@@ -20,14 +20,17 @@ The pursuit for knowledge in the world of cybersecurity has led to an evoultion 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-4cb749?&style=for-the-badge&logo=tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-NetworkMiner-000000?&style=for-the-badge&logo=NetworkMiner&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-339933?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-339933?&style=for-the-badge&logo=Nessus&logoColor=white&color=purple" />
+    <img src="https://img.shields.io/badge/-OpenVAS-2C97D1?&style=for-the-badge&logo=OpenVAS&logoColor=white&color=green" />
+
+
 </div>
 
 ### Endpoint
@@ -43,7 +46,9 @@ The pursuit for knowledge in the world of cybersecurity has led to an evoultion 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### SIEMProgamming 
+### Programming Languages
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white&color=yellow" />
 
 ## Certifications
 <div>
@@ -54,3 +59,4 @@ The pursuit for knowledge in the world of cybersecurity has led to an evoultion 
 
 ## Projects
 - Detection Lab
+- OpenVAS Scan
