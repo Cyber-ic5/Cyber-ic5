@@ -12,8 +12,8 @@ The pursuit for knowledge in the world of cybersecurity has led to an evoultion 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">ATT&CK Telemetry</a>|
+| Endpoint Monitoring and Detection | <a href="https://google.com">ATT&CK Telemetry</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -24,6 +24,8 @@ The pursuit for knowledge in the world of cybersecurity has led to an evoultion 
 
 ### Network
 <div>
+    <img src="https://img.shields.io/badge/-Snort-339933?&style=for-the-badge&logo=Snort&logoColor=white&color=pink" />
+    <img src="https://img.shields.io/badge/-Suricata-FFA500?&style=for-the-badge&logo=Suricata&logoColor=white&color=orange" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-4cb749?&style=for-the-badge&logo=tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-NetworkMiner-000000?&style=for-the-badge&logo=NetworkMiner&logoColor=white" />
@@ -58,5 +60,7 @@ The pursuit for knowledge in the world of cybersecurity has led to an evoultion 
 </div>
 
 ## Projects
-- Detection Lab
+- ATT&CK Telemetry
 - OpenVAS Scan
+- Simple Honeypot
+- SSH Bruteforce
