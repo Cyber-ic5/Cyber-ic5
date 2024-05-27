@@ -12,8 +12,8 @@ The pursuit for knowledge in the world of cybersecurity has led to an evoultion 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">ATT&CK Telemetry</a>|
-| Endpoint Monitoring and Detection | <a href="https://google.com">ATT&CK Telemetry</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Cyber-ic5/TTP-Telemetry">TTP Telemetry</a>|
+| Endpoint Monitoring and Detection | <a href="https://github.com/Cyber-ic5/TTP-Telemetry">TTP Telemetry</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
