@@ -54,9 +54,9 @@ The pursuit for knowledge in the world of cybersecurity has led to an evoultion 
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-INE%20Certified%20Incident%20Responder-red?&style=for-the-badge&logo=INE&logoColor=white" />
-<img src="https://img.shields.io/badge/-INE%20Enterprise%20Defense%20Administrator-blue?&style=for-the-badge&logo=INE&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Specialization-green?&style=for-the-badge&logo=google&logoColor=white" />
+<a href="https://certs.ine.com/8120f827-f47b-4d59-91ed-eb903f1fb04a#gs.9zh19e"><img src="https://img.shields.io/badge/-INE%20Certified%20Incident%20Responder-red?&style=for-the-badge&logo=INE&logoColor=white" />
+<a href="https://certs.ine.com/a80f395f-e1cc-4b3f-83fb-5a942afb507a#gs.9zh0k4"><img src="https://img.shields.io/badge/-INE%20Enterprise%20Defense%20Administrator-blue?&style=for-the-badge&logo=INE&logoColor=white" />
+<a href="https://www.coursera.org/account/accomplishments/specialization/S824ATMLP3LV"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Specialization-green?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ## Projects
