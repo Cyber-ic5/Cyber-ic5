@@ -5,21 +5,20 @@ I am a cybersecurity student who is striving to improve every day and dedicated 
 
 ## Objective
 
-The pursuit for knowledge in the world of cybersecurity has led to an evoultion in my evergrowing curiousity and I'm looking to progress further by joining a security team as an analyst.
+The pursuit for knowledge in the world of cybersecurity has led to an evoultion in my evergrowing curiousity and I'm looking to progress further by joining a security team.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Cyber-ic5/TTP-Telemetry">TTP Telemetry</a>|
 | Endpoint Monitoring and Detection | <a href="https://github.com/Cyber-ic5/TTP-Telemetry">TTP Telemetry</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Intrusion Detection        |  <a href="https://github.com/Cyber-ic5/Simple-Honeypot">Simple Honeypot</a>|
+| Vulnerablilty Scanning and Remediation     |<a href="https://github.com/Cyber-ic5/OpenVAS-Scan">OpenVAS Scan</a>|
+| Basic Red Teaming with Kali Linux                 | <a href="https://github.com/Cyber-ic5/SSH-Bruteforce">SSH Bruteforce</a>|
+| C | <a href="https://github.com/Cyber-ic5/SSH-Bruteforce">SSH Bruteforce</a>|
 
-## Tools
+## Familiar Tools
 
 
 ### Network
