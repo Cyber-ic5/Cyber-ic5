@@ -16,7 +16,6 @@ The pursuit for knowledge in the world of cybersecurity has led to an evoultion 
 | Intrusion Detection        |  <a href="https://github.com/Cyber-ic5/Simple-Honeypot">Simple Honeypot</a>|
 | Vulnerablilty Scanning and Remediation     |<a href="https://github.com/Cyber-ic5/OpenVAS-Scan">OpenVAS Scan</a>|
 | Basic Red Teaming with Kali Linux                 | <a href="https://github.com/Cyber-ic5/SSH-Bruteforce">SSH Bruteforce</a>|
-| C | <a href="https://github.com/Cyber-ic5/SSH-Bruteforce">SSH Bruteforce</a>|
 
 ## Familiar Tools
 
@@ -59,7 +58,7 @@ The pursuit for knowledge in the world of cybersecurity has led to an evoultion 
 </div>
 
 ## Projects
-- ATT&CK Telemetry
-- OpenVAS Scan
-- Simple Honeypot
-- SSH Bruteforce
+- <a href="https://github.com/Cyber-ic5/TTP-Telemetry">TTP Telemetry</a>
+- <a href="https://github.com/Cyber-ic5/OpenVAS-Scan">OpenVAS Scan</a>
+- <a href="https://github.com/Cyber-ic5/Simple-Honeypot">Simple Honeypot</a>
+- <a href="https://github.com/Cyber-ic5/SSH-Bruteforce">SSH Bruteforce</a>
