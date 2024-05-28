@@ -15,7 +15,8 @@ The pursuit for knowledge in the world of cybersecurity has led to an evoultion 
 | Endpoint Monitoring and Detection | <a href="https://github.com/Cyber-ic5/TTP-Telemetry">TTP Telemetry</a>|
 | Intrusion Detection        |  <a href="https://github.com/Cyber-ic5/Simple-Honeypot">Simple Honeypot</a>|
 | Vulnerablilty Scanning and Remediation     |<a href="https://github.com/Cyber-ic5/OpenVAS-Scan">OpenVAS Scan</a>|
-| Basic Red Teaming with Kali Linux                 | <a href="https://github.com/Cyber-ic5/SSH-Bruteforce">SSH Bruteforce</a>|
+| Networking, Ports, and Protocols               | <a href="https://github.com/Cyber-ic5/SSH-Bruteforce">SSH Bruteforce</a>|
+| Basic Red Teaming with Kali Linux   |   <a href="https://github.com/Cyber-ic5/SSH-Bruteforce">SSH Bruteforce</a> |
 
 ## Familiar Tools
 
