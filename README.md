@@ -1,11 +1,11 @@
 # Hello, I'm Stephen
 <a href="https://www.linkedin.com/in/stephen-jones-b11a81301/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity student who is striving to improve every day and dedicated to always learning.
+I'm a Cybersecurity/IT student who is striving to improve every day and dedicated to always learning.
 
 ## Objective
 
-The pursuit for knowledge in the world of cybersecurity has led to an evoultion in my evergrowing curiousity and I'm looking to progress further by joining an organization's security team.
+The pursuit for knowledge in the world of IT and cybersecurity has led to an evoultion in my evergrowing curiousity and I'm looking to progress further by joining an organization's IT or security team.
 
 ## Skills
 
@@ -17,6 +17,7 @@ The pursuit for knowledge in the world of cybersecurity has led to an evoultion 
 | Vulnerablilty Scanning and Remediation     |<a href="https://github.com/Cyber-ic5/OpenVAS-Scan">OpenVAS Scan</a>|
 | Networking, Ports, and Protocols               | <a href="https://github.com/Cyber-ic5/SSH-Bruteforce">SSH Bruteforce</a>|
 | Basic Red Teaming with Kali Linux   |   <a href="https://github.com/Cyber-ic5/SSH-Bruteforce">SSH Bruteforce</a> |
+| Scripting in Powershell         |                                                                           |
 
 ## Familiar Tools
 
@@ -39,6 +40,7 @@ The pursuit for knowledge in the world of cybersecurity has led to an evoultion 
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sysmon-003366?&style=for-the-badge&logo=Sysmon&logoColor=white" />
     <img src="https://img.shields.io/badge/-Redline-FF0000?&style=for-the-badge&logo=Redline&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white&color=blue" />
 </div>
 
 ### SIEM
@@ -50,6 +52,8 @@ The pursuit for knowledge in the world of cybersecurity has led to an evoultion 
 ### Programming Languages
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white&color=yellow" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white&color=blue" />
+
 
 ## Certifications
 <div>
