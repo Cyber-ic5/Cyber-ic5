@@ -53,6 +53,7 @@ The pursuit for knowledge in the world of IT and cybersecurity has led to an evo
 ### Programming Languages
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white&color=yellow" />
+    <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=green" />
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white&color=blue" />
 
 
