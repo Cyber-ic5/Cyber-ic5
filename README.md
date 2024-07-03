@@ -5,7 +5,7 @@ I'm a Cybersecurity/IT student who is striving to improve every day and dedicate
 
 ## Objective
 
-The pursuit for knowledge in the world of IT and cybersecurity has led to an evoultion in my evergrowing curiousity and I'm looking to progress further by joining an organization's IT or security team.
+The pursuit for knowledge in the world of IT and cybersecurity has led to an evolution in my evergrowing curiousity and I'm looking to progress further by joining an organization's IT or security team.
 
 ## Skills
 
