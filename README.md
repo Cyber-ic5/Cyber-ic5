@@ -12,7 +12,7 @@ The pursuit for knowledge in the world of IT and cybersecurity has led to an evo
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Cyber-ic5/TTP-Telemetry">TTP Telemetry</a>|
-| Endpoint Monitoring and Detection | <a href="https://github.com/Cyber-ic5/TTP-Telemetry">TTP Telemetry & Machine/FTPinfo.ps1</a>|
+| Endpoint Monitoring and Detection | <a href="https://github.com/Cyber-ic5/TTP-Telemetry">TTP Telemetry </a> <a href="https://github.com/Cyber-ic5/Machine-and-FTP-info.ps1">& Machine/FTPinfo.ps1</a>|
 | Intrusion Detection        |  <a href="https://github.com/Cyber-ic5/Simple-Honeypot">Simple Honeypot</a>|
 | Vulnerablilty Scanning and Remediation     |<a href="https://github.com/Cyber-ic5/OpenVAS-Scan">OpenVAS Scan</a>|
 | Networking, Ports, and Protocols               | <a href="https://github.com/Cyber-ic5/SSH-Bruteforce">SSH Bruteforce</a>|
